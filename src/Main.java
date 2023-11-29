@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Carlos esteve aqui!!
         Scanner leia = new Scanner(System.in);
         System.out.println("--------------------------");
         System.out.println(" Conversor de Temperatura ");
